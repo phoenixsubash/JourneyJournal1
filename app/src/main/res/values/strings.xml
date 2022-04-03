@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">JourneyJournal</string>
+    <string name="Welcome_message" translatable="true">Journey Journal</string>
+    <string name="password"> Password</string>
+    <string name="password_retype"> Re-type Password</string>
+    <string name="email"> Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="forget_text">Forgot Password?</string>
+    <string name="btn_txt">Login</string>
+    <string name="reg_msg">Don\'t have an account?</string>
+    <string name="login_msg">Already Registered?</string>
+    <string name="reg_link">Register</string>
+    <string name="version">Version 2.0.1</string>
+    <string name="Forgot_password">Reset Password using Email</string>
+    <string name="forgot_password_btn"> Reset Password</string>
+    <string name="add_your_journey">Add Your Journey</string>
+    <string name="args_show_toolbar">showToolBar</string>
+    <string name="args_show_bottom_navigation_view">showBottomNavigationView</string>
+    <string name="Description"> This is the first journey entry in my journal journey application.</string>
+
+
+    <string name="large_text">
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+</resources>
